@@ -1,0 +1,1 @@
+GET /vapi/alain/rest/customer?name=Clark&address=Slough

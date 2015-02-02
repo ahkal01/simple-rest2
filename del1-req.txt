@@ -1,0 +1,3 @@
+DELETE /ToDoRESTService/rest/customer/Clark HTTP/1.1
+Accept-Charset: utf-8
+Content-Type: application/json

@@ -1,0 +1,8 @@
+201
+
+Date: Thu, 24 Feb 2014 12:36:30 GMT
+Status: 201 Deleted
+Connection: close
+Content-Type: application/json
+Location: /ToDoRESTService/rest/customer/Clark
+Content-Length: 36

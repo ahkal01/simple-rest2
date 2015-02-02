@@ -1,0 +1,26 @@
+200
+
+Content-Type: text/xml; charset=UTF-8
+
+Connection: close
+
+Date: Wed, 29 Jan 2014 23:57:55 GMT
+
+Cache-Control: private, max-age=0
+
+Expires: -1
+
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer>
+	<name>Clark</name>
+	<address>Slough</address>
+	<trade>12-15-2013</trade>
+	<settle>12-19-2013</settle>
+	<contact>
+		<user>Clark</user>
+		<phone>44175324135</phone>
+		<email>Clark@gmail.com</email>
+	</contact>
+</customer>

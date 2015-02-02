@@ -1,0 +1,14 @@
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer>
+	<name>Smith</name>
+	<address>Windsor</address>
+	<trade>12-10-2013</trade>
+	<settle>12-14-2013</settle>
+	<contact>
+		<user>Smith</user>
+		<phone>44175324134</phone>
+		<email>Smith@gmail.com</email>
+	</contact>
+</customer>
