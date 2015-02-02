@@ -4,8 +4,8 @@
 "trade":"12-27-2113",
 "settle":"12-31-2113",
 "contact":
-{"user":"Martin",
-"phone":"44175324136",
-"email":"Martin@gmail.com"
-}
+  {"user":"Martin",
+  "phone":"44175324136",
+  "email":"Martin@gmail.com"
+  }
 }
