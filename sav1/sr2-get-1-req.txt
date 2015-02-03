@@ -1,0 +1,3 @@
+GROUP-NAME:Default Group
+PAIR-NAME:get-1
+GET /ToDoRESTService/rest/customer?name=Clark
