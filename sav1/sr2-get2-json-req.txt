@@ -1,0 +1,3 @@
+GROUP-NAME:Default Group
+PAIR-NAME:get2-json
+GET /vapi/alain/rest/customer/Martin
