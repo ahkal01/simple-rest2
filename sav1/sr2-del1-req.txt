@@ -1,0 +1,6 @@
+GROUP-NAME:Default Group
+PAIR-NAME:del1
+DELETE /ToDoRESTService/rest/customer/Clark
+Accept-Charset:utf-8
+Content-Type:application/json
+
