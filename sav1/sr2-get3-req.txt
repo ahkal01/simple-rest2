@@ -1,0 +1,3 @@
+GROUP-NAME:Default Group
+PAIR-NAME:get3
+GET /vapi/alain/rest/customer?name=Clark&address=Slough
