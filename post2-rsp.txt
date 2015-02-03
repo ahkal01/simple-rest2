@@ -1,4 +1,4 @@
-HTTP/1.1 201 Created
+201
 Date: Thu, 24 Feb 2014 12:36:30 GMT
 Status: 201 Created
 Connection: close
