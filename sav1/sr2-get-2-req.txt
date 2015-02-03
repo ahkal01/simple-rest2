@@ -1,0 +1,3 @@
+GROUP-NAME:Default Group
+PAIR-NAME:get-2
+GET /rest/customer/{user}
