@@ -1,0 +1,3 @@
+GROUP-NAME:Default Group
+PAIR-NAME:get4
+GET /vapi/alain/rest/customer?name=Smith&address=Windsor
